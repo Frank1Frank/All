@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    height: 250px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/20/16/43/minecraft-1469255__480.png);
+}
+header h1{
+    text-align: center;
+    padding-top: 50 px;
+}
+header h2 {
+text-align: center;
+color: black;
+}
+main a {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 260px;
+}
+main img {
+    height: 150px ;
+    width: 190px;
+    margin-left: 15px;
+    }
