@@ -19,9 +19,23 @@ main a {
     border: 2px solid black;
     padding: 5px;
     margin-left: 260px;
+  
+    
 }
 main img {
-    height: 150px ;
-    width: 190px;
-    margin-left: 15px;
+    height: 250px ;
+    width: 300px;
+    margin-left: 40px;
     }
+    main p
+    {
+        text-align: center;
+    }
+.link{
+    color: orange;
+}
+
+main ul {
+
+    text-align: center;
+}
