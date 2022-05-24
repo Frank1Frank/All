@@ -18,7 +18,9 @@ main a {
     color: black;
     border: 2px solid black;
     padding: 5px;
-    margin-left: 360px;
+}
+.class{
+    text-align: center;
 }
 main img {
     height: 250px ;
